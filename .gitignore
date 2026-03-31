@@ -1,3 +1,27 @@
+#other
+*.filters
+*.user
+*.pdb
+*.tlog
+*.cppclean
+*.ilk
+*.idb
+*.FileListAbsolute
+*.recipe
+*.iobj
+*.ipdb
+*.vcxproj
+*.db
+*.json
+*.suo
+*.vsidx
+*.ipch
+*.sln
+*.enc
+*.log
+*.wsuo
+
+
 # Prerequisites
 *.d
 

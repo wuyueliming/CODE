@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConcurrentMemoryPool/ConcurrentMemoryPool.vcxproj" Id="41aa38d5-b437-46b4-8bf1-ee3a75a177d5" />
+</Solution>
